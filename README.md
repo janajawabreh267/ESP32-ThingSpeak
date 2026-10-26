@@ -72,9 +72,9 @@ Simulated in [Wokwi](https://wokwi.com/) (ESP32 + DHT22).
 
 | Screenshot | File |
 |------------|------|
-| ThingSpeak channel with live charts | `screenshots/thingspeak.png` |
-| Serial Monitor output | `screenshots/serial.png` |
-| Wokwi circuit | `screenshots/circuit.png` |
+| ThingSpeak channel with live charts | `ScreenShots/thingspeak.png` |
+| Serial Monitor output | `ScreenShots/serial.png` |
+| Wokwi circuit | `ScreenShots/circuit.png` |
 
 ## Note
 
