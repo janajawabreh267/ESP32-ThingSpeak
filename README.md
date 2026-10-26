@@ -66,7 +66,7 @@ Simulated in [Wokwi](https://wokwi.com/) (ESP32 + DHT22).
 
 ## Wiring Diagram
 
-![Wokwi schematic](screenshots/circuit.png)
+![Wokwi schematic](ScreenShots/circuit.png)
 
 ## Screenshots
 
